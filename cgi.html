@@ -1,0 +1,33 @@
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'></>
+<link href="./style.css" rel="stylesheet" type="text/css"></>
+<style>
+body,input {
+   font-family: Rokkitt, Sans;
+   font-size: 12pt;
+}
+</style>
+</head>
+<body>
+
+<h1>Bof!</h1>
+<hr>
+<form name="offering" action="./oracle.cgi" method="post" id="offering">
+<table>
+<tr><td>Length of response:</td>
+  <td>
+  <select name="length" form="offering">
+     <option value="3">3</option>
+     <option selected="7" value="7">7</option>
+     <option value="12">12</option>
+     <option value="22">22</option> 
+  </select>
+  (words).</td></tr>
+  <tr><td valign="top">Offering</td><td><textarea name="offering"></textarea></td></tr>
+  <tr><td><input type="submit" value="make offering"></td><td></td></tr>
+</table>
+</form>
+<hr>
+</body>
+</html>

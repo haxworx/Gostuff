@@ -1,0 +1,110 @@
+# KJV Book/Chapter/Max verse layout
+# This file format is "different"
+
+<book title="Matthew">
+25,23,17,25,48,34,29,34,38,42,30,50,58,36,39,28,27,35,30,34,46,46,39,51,46,75,66,20
+</book>
+
+<book title="Mark">
+45,28,35,41,43,56,37,38,50,52,33,44,37,72,47,20
+</book>
+
+<book title="Luke">
+80,52,38,44,39,49,50,56,62,42,54,59,35,35,32,31,37,43,48,47,38,71,56,53
+</book>
+
+<book title="John">
+51,25,36,54,47,71,53,59,41,42,57,50,38,31,27,33,26,40,42,31,25
+</book>
+
+<book title="Acts">
+26,47,26,37,42,15,60,40,43,48,30,25,52,28,41,40,34,28,41,38,40,30,35,27,27,32,44,31
+</book>
+
+<book title="Romans">
+32,29,31,25,21,23,25,39,33,21,36,21,14,23,33,27
+</book>
+
+<book title="Corinthians I" alias="corinthians1">
+31,16,23,21,13,20,40,13,27,33,34,31,13,40,58,24
+</book>
+
+<book title="Corinthians II" alias="corinthians2">
+24,17,18,18,21,18,16,24,15,18,33,21,14
+</book>
+
+<book title="Galatians">
+24,21,29,31,26,18
+</book>
+
+<book title="Ephesians">
+23,22,21,32,33,24
+</book>
+
+<book title="Philippians">
+30,30,21,23
+</book>
+
+<book title="Colossians">
+29,23,25,18
+</book>
+
+<book title="Thessalonians I" alias="thessalonians1">
+10,20,13,18,28
+</book>
+
+<book title="Thessalonians II" alias="thessalonians2">
+12,17,18
+</book>
+
+<book title="Timothy I" alias="timothy1">
+20,15,16,16,25,21
+</book>
+
+<book title="Timothy II" alias="timothy2">
+18,26,17,22
+</book>
+
+<book title="Titus">
+16,15,15
+</book>
+
+<book title="Philemon">
+25
+</book>
+
+<book title="Hebrews">
+14,18,19,16,14,20,28,13,28,39,40,29,25
+</book>
+
+<book title="James">
+27,26,18,17,20
+</book>
+
+<book title="Peter I" alias="peter1">
+25,25,22,19,14
+</book>
+
+<book title="Peter II" alias="peter2">
+21,22,18
+</book>
+
+<book title="John I" alias="john1">
+10,29,24,21,21
+</book>
+
+<book title="John II" alias="john2">
+13
+</book>
+
+<book title="John III" alias="john3">
+14
+</book>
+
+<book title="Jude">
+25
+</book>
+
+<book title="Revelation">
+20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21
+</book>
